@@ -14,7 +14,7 @@ images after the butterflies emerge.
 I used a few tools to make life easier:
  - Python 3.7
  - Meraki Dashboard API library
- - PHP, JS, CSS, and HTML to make a simple website to show the images captured
+ - PHP 7.3, JS, CSS, and HTML to make a simple website to show the images captured
  thus far (copied from W3 schools)
  - Raspberry Pi 3 to host the scripts and images
  - Meraki MV12
