@@ -1,4 +1,4 @@
-# Caterpillar Cam 🐛 -> 🦋
+# 🐛 Caterpillar Cam 🦋
 While stuck at home during the COVID-19 pandemic, my wife and daughter started
 to keep caterpillars. Their lifecycle is really cool and well known. The pay
 off is when they become butterflies, of course. A challenge of this lifecycle
