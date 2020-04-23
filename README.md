@@ -11,7 +11,10 @@ hour and watch them grow. This way we don't have to watch hours of video
 recording to see their growth. I plan on making a time lapse video with the
 images after the butterflies emerge.
 
-I used a few tools to make life easier:
+## Caterpillar Cam Website
+![Caterpillar Cam Website](catepillar-cam-site.png)
+
+## Tools that made this possible
  - Python 3.7
  - Meraki Dashboard API library
  - PHP 7.3, JS, CSS, and HTML to make a simple website to show the images captured
